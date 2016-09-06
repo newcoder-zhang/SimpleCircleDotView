@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="radius" format="integer"/>
+    <attr name="mysrc" format="reference"/>
+
+    <declare-styleable name="CircleView">
+        <attr name="radius"/>
+        <attr name="mysrc"/>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="fillColor" format="color|reference"/>
+    <attr name="circleRadius" format="dimension|reference"/>
+
+    <declare-styleable name="DotView" >
+        <attr name="fillColor"/>
+        <attr name="circleRadius"/>
+    </declare-styleable>
+
+</resources>
